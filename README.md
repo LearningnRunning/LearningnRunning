@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f3dac0&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
-
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Rok%20render&fontSize=90&&animation=fadeIn"/>
+</P>
 <p align='center'> La douleur passe,<br>la beauté reste, le code reste. </p>
 
 <p align='center'>
