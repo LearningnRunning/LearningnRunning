@@ -28,10 +28,10 @@ ___
 
 
 # My Project
-> * [[BootCamp] Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
+> * [[BootCamp] Playdata 인공지능 19기 미니프로젝트](https://github.com/LearningnRunning/LearningnRunning/projects)
 >> **ML**
 >>> * 
 
-> * [[SideProject] 심야식당](https://github.com/xilverh0ya/Midnight_Diner)
+> * [[SideProject] 심야식당](https://github.com/LearningnRunning/NBus)
 ___
 
