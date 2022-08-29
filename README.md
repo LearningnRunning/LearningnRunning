@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Eunho's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Be growing up as a <b>GOOD</b> Developer" 👍 </p>
 
 <p align='center'>
-  <a href="https://github.com/xilverh0ya/MyStudy/issues">
+  <a href="https://github.com/LearningnRunning/MyStudy/issues">
     <img src="https://img.shields.io/badge/%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="https://github.com/xilverh0ya/Midnight_Diner/issues">
@@ -15,15 +15,12 @@
 
 <p align='center'> 👋 SNS/Community 👋 </p>
 <p align='center'>
-  <a href="https://xilverh0ya.github.io/">
+  <a href="https://velog.io/@sungrok7">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/h0ya95/">
+  <a href="https://www.instagram.com/button_s_button/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>
   </a>
-  </a>
-  <a href="https://stackoverflow.com/users/18604002/xilver-h0ya">
-    <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=Stack Overflow&logoColor=white"/>
   </a>
 </p>
 
