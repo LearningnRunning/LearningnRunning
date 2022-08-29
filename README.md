@@ -9,10 +9,10 @@
 <p align='center'> La douleur passe,<br>la beauté reste, le code reste. </p>
 
 <p align='center'>
-  <a href="https://github.com/xilverh0ya/MyStudy/issues">
+  <a href="https://github.com/LearningnRunning/LearningnRunning/issues">
     <img src="https://img.shields.io/badge/%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href="https://github.com/xilverh0ya/Midnight_Diner/issues">
+  <a href="https://github.com/LearningnRunning/LearningnRunning/issues">
     <img src="https://img.shields.io/badge/PROJECT%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
@@ -22,7 +22,7 @@ ___
 
 
 # Recent Project
-> * [[SideProject] 심야식당](https://github.com/xilverh0ya/Midnight_Diner)
+> * [[SideProject] 심야식당](https://github.com/LearningnRunning/LearningnRunning/projects)
 
 ___
 
