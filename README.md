@@ -1,7 +1,10 @@
+  <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
+  -->
+  
 
 <h1><p align='center'>  "깊이 천착하는  Developer"  </p></h1>
-___
+<img src="https://velog.velcdn.com/images/sungrok7/post/192ce32e-e6d8-4c9d-a532-aa5863fffae5/image.png" width="900" />
 <h2 align='left'>  Motto as a developer  </h2>
 <p align='left'>
 La douleur passe,<br>
@@ -82,8 +85,13 @@ ___
 > * CV
 >> * [[SideProject] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)
 
+> * Back_End
+>> * [[SideProject] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709)<br>
+빅데이터를 활용한 국민 행복 서비스 발굴 경진대회  ‘사회보장 유레카 2022’ 우수상 수상
+<a href="https://www.etnews.com/20220720000253">(한국사회보장정보원장상)</a>
+
 > * BootCamp
-    <!--
+<!--
 >> * ML
 >>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
 -->
@@ -98,8 +106,8 @@ ___
 ![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=learningnrunning&&show_icons=true&theme=radical)
 
  <br>
- 
+   <!--
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxilverh0ya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-             
+       -->      
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
 
