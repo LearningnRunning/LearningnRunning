@@ -13,17 +13,37 @@ la beauté reste, le code reste.<br>
 
 ___
 
-<p align='left'> ⭐ Skill ⭐ </p>
-<p align='left'>
-  <img src="https://user-images.githubusercontent.com/99625198/187715481-c177d947-3668-4df6-a75f-35a37004ce5c.png" width="150px"/>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/0b7634fe-c038-4be1-b819-3e1607ebbaf9/image.png" width="180px"/>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/dfce3984-ee26-4820-83b4-bef44bbd0402/image.png" width="80px"/>
-  <br>
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white"/>
+<h3><p align='center'> ⭐ Skill ⭐ </p></h3>
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/99625198/187715481-c177d947-3668-4df6-a75f-35a37004ce5c.png" width="150"  style="vertical-align:top"/>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/0b7634fe-c038-4be1-b819-3e1607ebbaf9/image.png" width="180" style="vertical-align:bottom"/>
+&nbsp;&nbsp;
+  <img src="https://velog.velcdn.com/images/sungrok7/post/77a5b4d0-036c-4b41-824f-1ecda6352551/image.png" width="130" style="vertical-align:bottom"/>
+
   <!--
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/dfce3984-ee26-4820-83b4-bef44bbd0402/image.png" width="80" style="vertical-align:top"/>
+  -->
+</p>
+
+___
+
+
+<h3><p align='center'> ♟ DL/ML ♟ </p></h3>
+<br>
+<p align='center'>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/08ee276f-7553-4af2-9598-85adf6b0f1ce/image.png" width="180"/>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/401b16b4-9f3b-4c51-a14b-d782d750fe91/image.png" width="180"/>
+  <br>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="100"/>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" width="180"/>
+    <!--
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
   -->
 </p>
 
@@ -51,35 +71,22 @@ ___
   <br>
 </p>
 
-___
-
-<p align='left'> ♟ DL/ML ♟ </p>
-
-<p align='left'>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
-</p>
-
 
 ___
 
 # My Project
 
 > * NLP
->> * [[SideProject] 심야식당](https://github.com/xilverh0ya/Midnight_Diner)
+>> * [[SideProject] 심야식당](https://www.notion.so/ppt-0e62ef1530df4a1c9141d0eba481fe32)
 
 > * CV
->> * [[SideProject] CatchV](https://github.com/tmdqja75/CleanData)
+>> * [[SideProject] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)
 
 > * BootCamp
+    <!--
 >> * ML
 >>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
+-->
 >> * DL
 >>> * [[Kaggle]Tweet Disaster NLP Basic](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_02_Narutal%20Language%20Processing%20with%20Disaster%20Tweets)
 
@@ -88,7 +95,7 @@ ___
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 
-![Xilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilverh0ya&&show_icons=true&theme=radical)
+![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=learningnrunning&&show_icons=true&theme=radical)
 
  <br>
  
