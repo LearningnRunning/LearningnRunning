@@ -1,39 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
 
-<p align='center'> 💪 "Be growing up as a <b>GOOD</b> Developer" 👍 </p>
-
-<p align='center'>
-  <a href="https://github.com/LearningnRunning/MyStudy/issues">
-    <img src="https://img.shields.io/badge/%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://github.com/xilverh0ya/Midnight_Diner/issues">
-    <img src="https://img.shields.io/badge/PROJECT%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align='center'> 👋 SNS/Community 👋 </p>
-<p align='center'>
-  <a href="https://velog.io/@sungrok7">
-    <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/button_s_button/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>
-  </a>
-  </a>
-</p>
-
+<h1><p align='center'>  "깊이 천착하는  Developer"  </p></h1>
 ___
-<p align='left'> 🎤 Introduce 🎤 </p>
+<h2 align='left'>  Motto as a developer  </h2>
 <p align='left'>
-  Hi! I intereted in ML, DL, and AI.
+La douleur passe,<br>
+la beauté reste, le code reste.<br>
   <br>
-  Especially among them, My target Domain is Computer Vision and Natural Language Processing.
-  <br>
-  I hope developing COOL things with good person.
-  <br>
-  So, I'll continue to study hard to become a good person too. Thanks!
+고통은 지나간다,<br>
+아름다움은 남는다, 코드도…
+
 
 ___
 
