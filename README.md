@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
   -->
   
-<img src="https://velog.velcdn.com/images/sungrok7/post/192ce32e-e6d8-4c9d-a532-aa5863fffae5/image.png" width="900" />
+<img src="https://velog.velcdn.com/images/sungrok7/post/3a3c4be4-4eca-4ebd-a98f-160f5e36c6be/image.png" width="900" />
 <h2 align='left'>  Motto as a developer  </h2>
 <p align='left'>
 <h3><p align='left'>  "깊이 천착하는  Developer"  </p></h3>
