@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
 
 <h1><p align='center'>  "깊이 천착하는  Developer"  </p></h1>
 ___
@@ -15,9 +15,9 @@ ___
 
 <p align='left'> ⭐ Skill ⭐ </p>
 <p align='left'>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/99625198/187715481-c177d947-3668-4df6-a75f-35a37004ce5c.png" width="150px"/>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/0b7634fe-c038-4be1-b819-3e1607ebbaf9/image.png" width="180px"/>
+  <img src="https://velog.velcdn.com/images/sungrok7/post/dfce3984-ee26-4820-83b4-bef44bbd0402/image.png" width="80px"/>
   <br>
   <img src="https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white"/>
   <!--
