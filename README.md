@@ -79,7 +79,7 @@ ___
 # My Project
 
 > * NLP
->> * [[SideProject] 심야식당](https://www.notion.so/ppt-0e62ef1530df4a1c9141d0eba481fe32)
+>> * [[SideProject] 심야식당](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
 
 > * CV
 >> * [[SideProject] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)
