@@ -3,6 +3,7 @@
   -->
   
 <img src="https://velog.velcdn.com/images/sungrok7/post/3a3c4be4-4eca-4ebd-a98f-160f5e36c6be/image.png" width="900" />
+<img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 <h2 align='left'>  Motto as a developer  </h2>
 <p align='left'>
 <h3><p align='left'>  "깊이 천착하는  Developer"  </p></h3>
@@ -99,7 +100,7 @@ ___
 
 ___
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 ![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=learningnrunning&&show_icons=true&theme=radical)
