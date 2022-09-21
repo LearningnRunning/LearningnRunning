@@ -34,7 +34,7 @@ la beauté reste, le code reste.<br>
 아름다움은 남는다, 코드도…
 
 ___
-<img src="https://velog.velcdn.com/images/sungrok7/post/55ba40f7-c2cc-449b-930d-da30e467d6a2/image.png" width="900" />
+<img src="https://velog.velcdn.com/images/sungrok7/post/064fa2f1-a967-4960-a5e6-3dd954bbe1d0/image.png" width="900" />
 <img src="./profile-3d-contrib/profile-night-green.svg" width="900" />
 
 
