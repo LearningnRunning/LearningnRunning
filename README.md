@@ -42,18 +42,18 @@ ___
 
 
 <h3><p align='center'> ⭐ Skill ⭐ </p></h3>
-<p align='center'>
-  <img src="https://user-images.githubusercontent.com/99625198/187715481-c177d947-3668-4df6-a75f-35a37004ce5c.png" width="150"  style="vertical-align:top"/>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/0b7634fe-c038-4be1-b819-3e1607ebbaf9/image.png" width="180" style="vertical-align:bottom"/>
-&nbsp;&nbsp;
-  <img src="https://velog.velcdn.com/images/sungrok7/post/77a5b4d0-036c-4b41-824f-1ecda6352551/image.png" width="130" style="vertical-align:bottom"/>
-
-  <!--
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/dfce3984-ee26-4820-83b4-bef44bbd0402/image.png" width="80" style="vertical-align:top"/>
-  -->
+<p align='left'>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <br>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ___
@@ -61,19 +61,15 @@ ___
 
 <h3><p align='center'> ♟ DL/ML ♟ </p></h3>
 <br>
-<p align='center'>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/08ee276f-7553-4af2-9598-85adf6b0f1ce/image.png" width="180"/>
-  <img src="https://velog.velcdn.com/images/sungrok7/post/401b16b4-9f3b-4c51-a14b-d782d750fe91/image.png" width="180"/>
+<p align='left'>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
   <br>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="100"/>
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" width="100"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" width="180"/>
-    <!--
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
-  -->
-</p>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </p>
 
 ___
 
@@ -90,7 +86,6 @@ ___
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
