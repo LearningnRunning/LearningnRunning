@@ -7,7 +7,7 @@
 >> * [[Project] 취향식탁](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
 
 > * CV
->> * [[Project] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)
+>> * [[Project] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)<br>
 2022 공개sw개발자대회 동상(KT ds상) 수상
 > * Back_End
 >> * [[Project] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709)<br>
