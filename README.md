@@ -8,7 +8,7 @@
 
 > * CV
 >> * [[Project] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)<br>
-2022 공개sw개발자대회 동상(KT ds상) 수상
+2022 공개 SW개발자대회 동상(KT ds상) 수상
 > * Back_End
 >> * [[Project] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709)<br>
 빅데이터를 활용한 국민 행복 서비스 발굴 경진대회  ‘사회보장 유레카 2022’ 우수상 수상
