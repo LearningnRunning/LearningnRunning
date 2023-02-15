@@ -25,7 +25,7 @@
 
 
 # Side Preoject
-> kind of my favorite thing to do in my spare time. </br>
+> ind of my favorite thing to do in my spare time. </br>
 
 [[S.P.1] KakaoRok](https://learningnrunning-matkimatki-app-cuuqak.streamlit.app/)
 - 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
@@ -34,6 +34,10 @@
 [S.P.2] 드라마 감정 분석
 - 드라마 회차별 주요 등장인물의 표정을 감정분석하여 회차별 감정분포가 시청률 등과의 상관관계 파악
 - 성균관 대학교 영상 분야 활용 자문위원
+
+[S.P.3] 뉴스 요약 메일링
+- 키워드 설정 해놓으면 뉴스 API를 이용해 키워드가 등장한 뉴스를 카카오톡 메시지로 전송
+- 예를 들어 "공급+계약+"이란 키워드라면 관련 뉴스에 대해 매일 일정시간 업데이트
 
 
 <picture>
