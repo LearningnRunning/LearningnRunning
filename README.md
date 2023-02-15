@@ -1,46 +1,61 @@
   <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
   -->
- # My Project
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://velog.velcdn.com/images/sungrok7/post/c83acbf2-143c-43c2-a8eb-3bf974ab7113/image.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://velog.velcdn.com/images/sungrok7/post/23adf325-1a70-4772-ba88-40332672a96e/image.png">
+  <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+</picture>
 
-> * NLP
->> * [[Project] 취향식탁](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
+# Main Project
 
-> * CV
->> * [[Project] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)<br>
-2022 공개 SW개발자대회 동상(KT ds상) 수상
-> * Back_End
->> * [[Project] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709)<br>
-빅데이터를 활용한 국민 행복 서비스 발굴 경진대회  ‘사회보장 유레카 2022’ 우수상 수상
-<a href="https://www.etnews.com/20220720000253">(한국사회보장정보원장상)</a>
+[[Project1] 취향식탁](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
+- 리뷰를 키워드로 자연어처리, 키워드(태그) 토대로 맛집 추천
 
-> * BootCamp
-<!--
->> * ML
->>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
--->
->> * DL
->>> * [[Kaggle]Tweet Disaster NLP Basic](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_02_Narutal%20Language%20Processing%20with%20Disaster%20Tweets)
+[[Project2] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709):trophy:
+- [빅데이터 경진대회 ‘사회보장 유레카 2022’ 우수상(한국사회보장정보원장상) 수상](https://www.etnews.com/20220720000253)
+- 저상버스 예약 시스템, 교통약자 맞춤형 경로 안내 서비스
+
+[[Project3] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16):trophy:
+- [2022 공개 SW개발자대회 동상(KT ds상) 수상](https://youtu.be/0Ui0ibt0NYQ)
+- 디지털 성범죄 피해자를 지원하는 오픈소스 프로젝트
+- 다방면 셀카 사진으로 유포된 영상 주소를 반환해주는 오픈소스 서비스
 
 
+
+# Side Preoject
+> kind of my favorite thing to do in my spare time. </br>
+
+[[S.P.1] KakaoRok](https://learningnrunning-matkimatki-app-cuuqak.streamlit.app/)
+- 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
+- Streamlit으로 배포 중
+
+[S.P.2] 드라마 감정 분석
+- 드라마 회차별 주요 등장인물의 표정을 감정분석하여 회차별 감정분포가 시청률 등과의 상관관계 파악
+- 성균관 대학교 영상 분야 활용 자문위원
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width="900">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" width="900">
+  <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+</picture>
+ 
 ___
-<h2 align='left'>  Motto as a developer  </h2>
-<p align='left'>
-<h3><p align='left'>  "깊이 천착하는  Developer"  </p></h3>
-La douleur passe,<br>
-la beauté reste, le code reste.<br>
-  <br>
-고통은 지나간다,<br>
-아름다움은 남는다, 코드도…
-
-___
-<img src="https://velog.velcdn.com/images/sungrok7/post/064fa2f1-a967-4960-a5e6-3dd954bbe1d0/image.png" width="900" />
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900" />
 
 
+![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=learningnrunning&&show_icons=true&theme=radical)
 
+ <br>
+   <!--
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxilverh0ya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+      
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
 
-
+ -->      
+ 
+ <!-- 
 <h3><p align='center'> ⭐ Skill ⭐ </p></h3>
 <p align='left'>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -91,18 +106,5 @@ ___
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
   <br>
-</p>
+</p> -->
 
- 
-___
-
-
-![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=learningnrunning&&show_icons=true&theme=radical)
-
- <br>
-   <!--
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxilverh0ya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-      
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
-
- -->      
