@@ -4,7 +4,7 @@
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://velog.velcdn.com/images/sungrok7/post/61e522aa-fa9e-4cec-a466-3db38ee112bf/image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://velog.velcdn.com/images/sungrok7/post/5d242eb4-6f5c-4843-b7b3-7243f916530f/image.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://velog.velcdn.com/images/sungrok7/post/5a7dfddd-420a-4e69-ad5f-afc74da99bdc/image.png">
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
