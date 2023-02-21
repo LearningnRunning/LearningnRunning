@@ -26,7 +26,7 @@
 
 
 # Side Preoject
-> ind of my favorite thing to do in my spare time. </br>
+> Kind of my favorite thing to do in my spare time. </br>
 
 ### [[S.P.1] KakaoRok](https://learningnrunning-kakaorok-app-5fnvcn.streamlit.app/)
 - 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
