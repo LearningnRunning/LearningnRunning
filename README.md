@@ -28,8 +28,9 @@
 # Side Preoject
 > Kind of my favorite thing to do in my spare time. </br>
 
-### [[S.P.1] KakaoRok](https://kakaorok.streamlit.app/)
+### [[S.P.1] What2Eat](https://what2eat.streamlit.app/)
 - 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
+- 
 - Streamlit으로 배포 중
 
 ### [S.P.2] 드라마 감정 분석
