@@ -28,10 +28,10 @@
 # Side Preoject
 > Kind of my favorite thing to do in my spare time. </br>
 
-### [[S.P.1] What2Eat](https://what2eat.streamlit.app/)
+### [[S.P.1] What2Eat]([https://kakaorok.streamlit.app/](https://what2eat.streamlit.app/))
 - 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
-- 
 - Streamlit으로 배포 중
+- [What2Eat_속초](https://what2eat-sokcho.streamlit.app/)
 
 ### [S.P.2] 드라마 감정 분석
 - 드라마 회차별 주요 등장인물의 표정을 감정분석하여 회차별 감정분포가 시청률 등과의 상관관계 파악
