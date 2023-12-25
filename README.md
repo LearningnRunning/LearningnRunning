@@ -10,37 +10,28 @@
 
 # Main Project
 
-### [[Project1] 취향식탁](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
-- 리뷰를 키워드로 자연어처리, 키워드(태그) 토대로 맛집 추천
+### [[Project1] AI Snap](ai_snap.md)
+- **Project Period:** July 26, 2023, to October 4, 2023
+- **Key Performance:** Successfully developed and launched paid AI services within a 71-day timeframe. Achieved a 300% increase in app downloads post-launch.
 
-### [[Project2] 어디갈래?](https://www.notion.so/ppt_-bf44dd782a7e4a919b50d95d03a00709):trophy:
-- [빅데이터 경진대회 ‘사회보장 유레카 2022’ 우수상(한국사회보장정보원장상) 수상](https://www.etnews.com/20220720000253)
-- 저상버스 예약 시스템, 교통약자 맞춤형 경로 안내 서비스
+### [[Project2] BalanceMakeUp](balance_makeup.md)
+- **Project Period:** March 13, 2023, to July 18, 2023
+- **Key Achievements:** Establishment of a user-centered makeup guide service with customized makeup guidance using facial analysis data.
 
-### [[Project3] CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16):trophy:
-- [2022 공개 SW개발자대회 동상(KT ds상) 수상](https://youtu.be/0Ui0ibt0NYQ)
-- 디지털 성범죄 피해자를 지원하는 오픈소스 프로젝트
-- 다방면 셀카 사진 입력하면 유포된 영상 주소를 반환해주는 오픈소스 서비스
-- 불법 사이트에서 유포 정황을 파악하는 서비스
+### [[Project3] Catch V](catch_v.md):trophy:
+- **Project Period:** June 20, 2022, to December 2, 2022
+- **Key Achievements:**
+  1. Development of open software to support victims of digital sex crimes.
+  2. [Bronze Award at the 2022 SW Developer Competition.](https://youtu.be/0Ui0ibt0NYQ)
 
+### [[Project4] 취향식탁](taste_table.md)
+- **Project Period:** May 7, 2022, to July 22, 2022
+- **Key Achievements:**
+  1. Converted review data into standardized data using NLP and LLM to build a restaurant recommendation system.
 
-
-# Side Preoject
-> Kind of my favorite thing to do in my spare time. </br>
-
-### [[S.P.1] What2Eat]([https://kakaorok.streamlit.app/](https://what2eat.streamlit.app/))
-- 카카오맵 리뷰 기반으로 깐깐한 리뷰어들의 평가를 필터링하여 맛집을 찾아주는 프로젝트
-- Streamlit으로 배포 중
-- [What2Eat_속초](https://what2eat-sokcho.streamlit.app/)
-
-### [S.P.2] 드라마 감정 분석
-- 드라마 회차별 주요 등장인물의 표정을 감정분석하여 회차별 감정분포가 시청률 등과의 상관관계 파악
-- 성균관 대학교 영상 분야 활용 자문위원
-
-### [S.P.3] 뉴스 요약 메일링
-- 키워드 설정 해놓으면 뉴스 API를 이용해 키워드가 등장한 뉴스를 카카오톡 메시지로 전송
-- 예를 들어 "공급+계약+"이란 키워드라면 관련 뉴스에 대해 매일 일정시간 업데이트
-
+### [[Project5] NaverTrans](https://github.com/LearningnRunning/NaverTrans)
+- **Key Performance:**
+  - NaverTrans is a Python package utilizing the translation function of the Naver search bar. Emphasis on refraining from excessive use.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width="900">
