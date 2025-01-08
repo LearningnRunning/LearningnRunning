@@ -1,37 +1,32 @@
   <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
   -->
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="LearningnRunning-002.png">
-  <source media="(prefers-color-scheme: light)" srcset="LearningnRunning-001.png">
-  <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
-</picture>
 
 # Main Project
 
-### [[Project1] AI Snap](ai_snap.md)
-- **Project Period:** July 26, 2023, to October 4, 2023
-- **Key Performance:** Successfully developed and launched paid AI services within a 71-day timeframe. Achieved a 300% increase in app downloads post-launch.
+### [[Project1] 쩝쩝 LAB](yamyam-lab.md)
+- Research and development of personalized restaurant recommendation system using GNN-based recommendation and LLM-based text analysis.
 
-### [[Project2] BalanceMakeUp](balance_makeup.md)
-- **Project Period:** March 13, 2023, to July 18, 2023
-- **Key Achievements:** Establishment of a user-centered makeup guide service with customized makeup guidance using facial analysis data.
+---
 
-### [[Project3] Catch V](catch_v.md):trophy:
-- **Project Period:** June 20, 2022, to December 2, 2022
-- **Key Achievements:**
-  1. Development of open software to support victims of digital sex crimes.
-  2. [Bronze Award at the 2022 SW Developer Competition.](https://youtu.be/0Ui0ibt0NYQ)
+### [[Project2] What2Eat](what2eat.md)
+- Develop a more reliable ranking algorithm by incorporating Bayesian approaches and other statistical weighting methods to reduce noise from extreme or manipulated reviews.
 
-### [[Project4] 취향식탁](taste_table.md)
-- **Project Period:** May 7, 2022, to July 22, 2022
-- **Key Achievements:**
-  1. Converted review data into standardized data using NLP and LLM to build a restaurant recommendation system.
+---
 
-### [[Project5] NaverTrans](https://github.com/LearningnRunning/NaverTrans)
-- **Key Performance:**
-  - NaverTrans is a Python package utilizing the translation function of the Naver search bar. Emphasis on refraining from excessive use.
+### [[Project3] AI Snap](ai_snap.md)
+- Image Preprocessing Pipeline – Built a structured pipeline to quantify various facial attributes (face-width ratio, orientation, eye/mouth geometry, hair position) and select the highest-quality images.
+- Stable Diffusion & Face Swap Integration – Incorporated model-based generation for refined user likeness, applying Gaussian blur where appropriate to ensure a natural skin appearance and overall consistency.
+---
+
+### [[Project4] BalanceMakeUp](balance_makeup.md)
+- Facial Geometry & Shape Analysis – Implemented robust algorithms (via Google MediaPipe FaceMesh) to detect 468 landmarks, enabling high-precision face shape classification.
+- Personalized Makeup Guidance – Developed per-region analysis (contouring, highlighting, etc.) and offered example styles based on personal color theory, utilizing a flexible data flux approach for adaptive content.
+---
+
+### [[Project5] Catch V](catch_v.md) :trophy:
+- Development of open software to support victims of digital sex crimes.
+- [Bronze Award at the 2022 SW Developer Competition.](https://youtu.be/0Ui0ibt0NYQ)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width="900">
