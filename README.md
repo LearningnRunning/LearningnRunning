@@ -30,13 +30,13 @@
 
 
 ___
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width="900">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" width="900">
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
  
-___
+___ -->
 
 
  
