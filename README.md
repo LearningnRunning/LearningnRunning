@@ -1,33 +1,47 @@
   <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Rok's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20DA/CV/NLP&descAlignY=51&descAlign=62)
   -->
+# Hi, I'm Rocky 👋
 
-# Main Project
+ML/AI engineer working on AI agents and ML systems in the advertising domain.
 
-### [[Project1] 쩝쩝 LAB](yamyam-lab.md)
-- Research and development of personalized restaurant recommendation system using GNN-based recommendation and LLM-based text analysis.
+I started programming in 2022, later than most, and have kept building side projects alongside full-time work since then.
+
+- 🔭 Currently working on **ad copy compliance checking** (detecting regulatory violations) and **ad platform backend/batch systems** at an advertising agency, 4 years in.
+- 🌱 Outside of work, I build side projects across different domains — restaurant recommendation systems, a financial data MCP server, a task management app, an AI tutoring simulator.
+- ⚡ I favor a build → validate → ship cycle: turning ideas into working prototypes, then testing them in production.
+- 💬 I like owning the full stack of a problem — from ML modeling to backend to deployment.
 
 ---
 
-### [[Project2] What2Eat](what2eat.md)
-- Develop a more reliable ranking algorithm by incorporating Bayesian approaches and other statistical weighting methods to reduce noise from extreme or manipulated reviews.
+## Work
+
+**Ad Copy Compliance Checker**
+Rebuilt a legacy binary classifier into a RAG + multi-model ensemble system with a continuous retraining loop. Improved violation detection recall and automated both the reasoning behind each flag and suggested rewrites.
+
+**Ad Platform Backend/Batch System**
+Owned the backend of a production-scale ad platform for over a year — reach estimation, large-scale batch upload validation, and integrations with external systems.
 
 ---
 
-### [[Project3] AI Snap](ai_snap.md)
-- Image Preprocessing Pipeline – Built a structured pipeline to quantify various facial attributes (face-width ratio, orientation, eye/mouth geometry, hair position) and select the highest-quality images.
-- Stable Diffusion & Face Swap Integration – Incorporated model-based generation for refined user likeness, applying Gaussian blur where appropriate to ensure a natural skin appearance and overall consistency.
+## Side Projects
+
+### Jjeopjjeop LAB / TasteRoute — Review-based Restaurant Discovery
+A restaurant recommendation service built on a semantic pipeline that normalizes public review data, with a Bayesian-adjusted ranking model accounting for review reliability, recency, and engagement. Currently in production. Also designing a Semantic ID–based generative recommendation architecture (TIGER-style) as a separate track.
+
+### trade-bridge — US Stock Research MCP Server
+An MCP server exposing 57 tools for LLMs to query and combine macro indicators, financial statements, sector momentum, SEC filings, DCF models, and options data. Deployed and in active use on Oracle Cloud's free tier.
+
+### Dear J — A Todo App Connecting Projects to Daily Execution
+Built around the idea that choosing, doing, and reflecting on "what to do today" across multiple projects is itself the core product experience. Designed, built, and deployed end-to-end with React and Supabase.
+
+### Nursing Handoff SBAR Simulator — AI Tutoring Simulator
+Built with a PhD candidate in nursing education. Separates evaluation from response generation, using a Socratic approach that withholds answers so students identify gaps in their own clinical reasoning. Currently piloting with the nursing department at Mokpo National University.
+
 ---
 
-### [[Project4] BalanceMakeUp](balance_makeup.md)
-- Facial Geometry & Shape Analysis – Implemented robust algorithms (via Google MediaPipe FaceMesh) to detect 468 landmarks, enabling high-precision face shape classification.
-- Personalized Makeup Guidance – Developed per-region analysis (contouring, highlighting, etc.) and offered example styles based on personal color theory, utilizing a flexible data flux approach for adaptive content.
----
-
-### [[Project5] Catch V](catch_v.md) :trophy:
-- Development of open software to support victims of digital sex crimes.
-- [Bronze Award at the 2022 SW Developer Competition.](https://youtu.be/0Ui0ibt0NYQ)
-
+## Contact
+max_sungrok@naver.com
 
 ___
 <!-- <picture>
